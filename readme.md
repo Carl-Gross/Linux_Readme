@@ -8,6 +8,7 @@ The project can be seen from any browser at http://34.221.80.254/
 Note that the Google Sign In does not work as it requires a .com address.
 
 ##Software Installed
+
 The server had Apache, Python, Mod-WSGI, PostgreSQL, Flask, and Flask-SQLAlchemy packages installed.
 
 Configuration changes necessary to serve the webpage included: 
