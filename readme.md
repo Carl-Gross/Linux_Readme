@@ -18,10 +18,10 @@ Configuration changes necessary to serve the webpage included:
   * Changing a table name from 'user' to 'owner'
 
 ##Resources Used
-http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
-https://vim.rtorr.com/
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-https://www.digitalocean.com/community/tutorials/how-to-configure-logging-and-log-rotation-in-apache-on-an-ubuntu-vps
-http://flask-sqlalchemy.pocoo.org/2.3/queries/
-https://www.postgresql.org/docs/current/static/app-createdb.html
-https://dba.stackexchange.com/questions/75551/returning-rows-in-postgresql-with-a-table-called-user
+  * http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
+  * https://vim.rtorr.com/
+  * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  * https://www.digitalocean.com/community/tutorials/how-to-configure-logging-and-log-rotation-in-apache-on-an-ubuntu-vps
+  * http://flask-sqlalchemy.pocoo.org/2.3/queries/
+  * https://www.postgresql.org/docs/current/static/app-createdb.html
+  * https://dba.stackexchange.com/questions/75551/returning-rows-in-postgresql-with-a-table-called-user
